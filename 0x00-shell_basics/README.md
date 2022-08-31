@@ -1,1 +1,1 @@
-3-listfiles displays current directory contents with hidden file in long format
+5-listfilesdigitonly displays currents directory contents in long format with user and groupd IDs
