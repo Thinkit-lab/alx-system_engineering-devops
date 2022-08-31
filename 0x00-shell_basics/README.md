@@ -1,1 +1,1 @@
-5-listfilesdigitonly displays currents directory contents in long format with user and groupd IDs
+6-firstdirectory creates a new directory in /tmp directory
