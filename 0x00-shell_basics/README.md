@@ -1,1 +1,1 @@
-7-movethatfile moves betty from /temp to a new direectory
+8-firstdelete deletes the file betty from my first directory
