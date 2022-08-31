@@ -1,1 +1,1 @@
-8-firstdelete deletes the file betty from my first directory
+9-firstdirdeletion deletes the directory from tmp
